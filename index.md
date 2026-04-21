@@ -1,61 +1,31 @@
-Privacy Policy
+Terms of Use for Daily Signal
 
-Last updated: March 2026
+Last Updated: April 22, 2026
 
-Thank you for using Drone Maintenance Assistant ("the App"). Your privacy is important to us.
+1. Acceptance of Terms
+By downloading, opening, or using Daily Signal (the "App"), you agree to be bound by these Terms of Use.
 
-1. Information We Collect
+2. Subscriptions and Auto-Renewal
+- Monthly Subscription: $0.99 per month
+- Yearly Subscription: $4.99 per year
+- Lifetime Access: $12.99 one-time payment
 
-The App does not collect, store, or transmit any personal information.
+Subscriptions auto-renew unless canceled at least 24 hours before the end of the current period. You can manage subscriptions in your Apple ID Account Settings.
 
-All maintenance records, notes, and data entered by users are stored locally on the user's device only.
+3. Refunds
+All payments are processed by Apple. Please contact Apple Support for refund requests.
 
-We do not require account registration.
+4. Free Tier Limitations
+Free users can save up to 5 favorites and access 7 days of history. Premium unlocks unlimited favorites, full history, export, and removes ads.
 
-We do not collect:
+5. Privacy
+Your privacy is important. See our Privacy Policy for details.
 
-Name
-
-Email address
-
-Location data
-
-Device identifiers
-
-Usage analytics
-
-Payment information
-
-2. Local Data Storage
-
-All user-generated content, including maintenance records and notes, is saved locally on your device.
-
-We do not have access to your data.
-
-If you delete the App, all stored data may be permanently removed unless backed up by your device system.
-
-3. Third-Party Services
-
-The App does not use third-party analytics, advertising SDKs, or tracking services.
-
-If this changes in future versions, this Privacy Policy will be updated accordingly.
-
-4. Children's Privacy
-
-The App is not directed to children under 13.
-We do not knowingly collect personal information from children.
-
-5. Data Security
-
-Because all data is stored locally on your device, security depends on your device's system protection and settings.
-
-6. Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-Changes will be reflected with a revised "Last updated" date.
+6. Changes to Terms
+We may update these terms. Continued use means acceptance of changes.
 
 7. Contact
+Email: chenjinyue1016@163.com
 
-If you have any questions about this Privacy Policy, please contact:
-
-wilpein20180101@163.com
+8. Governing Law
+These terms are governed by the laws of CN.
